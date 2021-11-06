@@ -17,7 +17,7 @@
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongSeong Kim &theme=default&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongSeong-Kim &theme=default&show_icons=true)
 
 
 
