@@ -19,6 +19,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongSeong-Kim &theme=default&show_icons=true)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YongSeong-Kim)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
